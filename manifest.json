@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "2048-Extension",
+    "description": "2048 game as extension.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon-192x192.png"
+    }
+  }
